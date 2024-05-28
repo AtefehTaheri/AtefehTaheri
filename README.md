@@ -4,7 +4,10 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 
-Native Android Developer📱 </br>
+Android Developer📱 </br>
+- 💬 Ask me about Kotlin, or anything related to Android development.
+- 📫 How to reach me: e.atefehtaheri@gmail.com
+
 
 
 
